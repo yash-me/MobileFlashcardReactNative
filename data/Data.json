@@ -1,0 +1,24 @@
+{
+    "React": {
+      "title": "React",
+      "questions": [
+        {
+          "question": "React.js is built by",
+          "answer": "facebook"
+        },
+        {
+          "question": "How is React Udacity course",
+          "answer": "Best"
+        }
+      ]
+    },
+    "JS": {
+      "title": "JS",
+      "questions": [
+        {
+          "question": "For equality check we use",
+          "answer": " ==="
+        }
+      ]
+    }
+  }
